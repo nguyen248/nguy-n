@@ -21,7 +21,7 @@ body {
     margin: 0px;
     overflow: hidden;
     padding: 0px 230px 0px 230px;
-    background-image: url(Layer3.png);
+    background-image: url(./anh/Layer3.png);
     color: white;  
     display: flex;
     justify-content: space-between;
@@ -63,7 +63,7 @@ nav {
 section {
     width: auto;
     height: auto;
-    background-image: url(BG.png);
+    background-image: url(./anh/BG.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
